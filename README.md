@@ -1,5 +1,3 @@
-# akshansh11.github.io
-
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, PyTorch
